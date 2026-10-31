@@ -1,3 +1,7 @@
+**[Watch the Demonstration Video](https://drive.google.com/file/d/1yEmzEUHiksLkIK8n5qJuga0qSlNEsGAH/view?usp=sharing)**
+
+**[Watch the Demonstration Video](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)**
+
 # J & D Reserve - Android app (Lab Act 3)
 
 Beach House booking app for **J & D Beach House, Patar, Bolinao**, built from the Figma prototype
@@ -135,3 +139,5 @@ The original screens and business logic were compiled and tested earlier (see th
 available when they were written. They were checked statically only: every `R.id` / `R.layout` reference matches a layout file,
 every activity is declared in the manifest, all layout XML is well-formed, braces and parentheses balance, and the concierge's date
 and guest-count regexes were tested. **Sync Gradle and run it in Android Studio once** and send any compiler error back; expect small fixes.
+
+
